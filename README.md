@@ -14,3 +14,5 @@ To use it, run `segmenta.m` in a Matlab console.
 * Export that data to CSV and MAT
 
 > Last update: Sep 11, 2020.
+
+![](segmenta_v04_example_2.png "example")
